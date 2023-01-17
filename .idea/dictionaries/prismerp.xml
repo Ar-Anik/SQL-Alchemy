@@ -3,13 +3,24 @@
     <words>
       <w>address</w>
       <w>base</w>
+      <w>book</w>
+      <w>connection</w>
+      <w>contains</w>
       <w>customers</w>
       <w>email</w>
       <w>engine</w>
+      <w>genric</w>
+      <w>interval</w>
+      <w>length</w>
       <w>name</w>
+      <w>price</w>
       <w>result</w>
+      <w>self</w>
       <w>session</w>
+      <w>start</w>
+      <w>statement</w>
       <w>tablename</w>
+      <w>updatelength</w>
     </words>
   </dictionary>
 </component>
