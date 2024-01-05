@@ -148,6 +148,7 @@
   <component name="RunManager" selected="Python.SQL-Alchemy">
     <configuration name="SQL-Alchemy" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="sql_alchemy" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -213,6 +214,7 @@
     </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="sql_alchemy" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
